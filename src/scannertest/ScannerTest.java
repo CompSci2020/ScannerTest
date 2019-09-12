@@ -1,6 +1,6 @@
 /*
  * Kaune
- * Sept.12/19
+ * September 12/19
  * A scanner example and GitHub first push test
  */
 
